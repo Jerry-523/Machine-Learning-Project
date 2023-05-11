@@ -1,5 +1,5 @@
 # Machine-Learning-Project
 
 ## Introduction
-This project will be an introduction to machine learning; you will build a neural
+This project is an introduction to machine learning; were I will build a neural
 network to classify digits, and more!
